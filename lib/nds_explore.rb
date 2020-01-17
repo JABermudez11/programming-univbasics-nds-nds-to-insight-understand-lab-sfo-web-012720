@@ -11,5 +11,11 @@ end
 def print_first_directors_movie_titles
   #pp directors_database
   #AoHoAoH
-  
+  row = 0
+  while row < directors_database.size do
+    column = 0
+    while column < directors_database[row] do
+      
+    end
+  end
 end
